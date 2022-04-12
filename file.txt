@@ -1,2 +1,3 @@
-prueba para la clase de git
-descripcion de archivo
+prueba para la clase de git CF.
+hola hola.
+Contribuiudores de proyecto.
